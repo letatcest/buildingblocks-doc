@@ -1,6 +1,6 @@
 # Building Blocks | Bouwblokken
 
-For a new YouTube series I'm working on simultaniously creating a repository on the contents. This will mainly be in Dutch, 
+For a new series I'm working on simultaniously creating a repository on the contents. This will mainly be in Dutch, 
 
 ## Introductie
 
